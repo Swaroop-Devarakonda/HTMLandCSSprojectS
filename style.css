@@ -1,0 +1,32 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+.container{
+    width: 1200px;
+    margin:auto;
+}
+
+.row{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.box1{
+    width: 45%;
+    margin: auto;
+    border:solid black 2px;
+}
+
+.box1 .box1a{
+    width: 40%;
+    margin: auto;
+}
+
+.box1a img{
+    width: 100%;
+}
+
+.abc{
+    height: 150px;
+}
